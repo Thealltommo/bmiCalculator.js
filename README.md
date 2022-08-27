@@ -1,1 +1,1 @@
-# bmiCalculator.js
+# bmiCalculator js
